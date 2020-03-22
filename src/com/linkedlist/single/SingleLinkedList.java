@@ -84,6 +84,7 @@ public class SingleLinkedList {
                 }else {
                     head = head.next;
                 }
+
                 isDeleted=true;
         }else {
             Node tempHead=head;
