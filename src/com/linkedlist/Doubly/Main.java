@@ -25,7 +25,17 @@ public class Main {
         list.traverseListForward();
         System.out.println("Backward Traversal");
         list.traverseListBackward();
-
-
+        System.out.println("Insert 3 at 3rd Index, Index starting from 0");
+        list.insertElementAtGivenPosition(3,3);
+        list.traverseListForward();
+        System.out.println("Insert 1 at 0th Index, Index starting from 0");
+        list.insertElementAtGivenPosition(1,0);
+        list.traverseListForward();
+        System.out.println("Insert 21 at last");
+        list.insertElementAtGivenPosition(21,11);
+        list.traverseListForward();
+        System.out.println("Insert 20 at 2nd last");
+        list.insertElementAtGivenPosition(20,11);
+        list.traverseListForward();
     }
 }
