@@ -28,7 +28,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.RotationOfArray">
+  <component name="RunManager" selected="Application.MaxSubArraySum">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.linkedlist.Doubly.Main" />
       <module name="DataStructure&amp;AlgorithmPractice" />
@@ -55,6 +55,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MaxSubArraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algos.ArrayBased.MaxSubArraySum" />
+      <module name="DataStructure&amp;AlgorithmPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Algos.ArrayBased.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RotationOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Algos.ArrayBased.RotationOfArray" />
       <module name="DataStructure&amp;AlgorithmPractice" />
@@ -70,6 +83,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaxSubArraySum" />
         <item itemvalue="Application.RotationOfArray" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.MainClass" />
@@ -110,22 +124,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585413171752" />
-    <state width="1323" height="214" key="GridCell.Tab.0.bottom" timestamp="1587661610326">
+    <state width="1323" height="214" key="GridCell.Tab.0.bottom" timestamp="1587662242217">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="214" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587661610326" />
-    <state width="1323" height="214" key="GridCell.Tab.0.center" timestamp="1587661610310">
+    <state width="1323" height="214" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587662242217" />
+    <state width="1323" height="214" key="GridCell.Tab.0.center" timestamp="1587662242217">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="214" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587661610310" />
-    <state width="1323" height="214" key="GridCell.Tab.0.left" timestamp="1587661610310">
+    <state width="1323" height="214" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587662242217" />
+    <state width="1323" height="214" key="GridCell.Tab.0.left" timestamp="1587662242217">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="214" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587661610310" />
-    <state width="1323" height="214" key="GridCell.Tab.0.right" timestamp="1587661610310">
+    <state width="1323" height="214" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587662242217" />
+    <state width="1323" height="214" key="GridCell.Tab.0.right" timestamp="1587662242217">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="214" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587661610310" />
+    <state width="1323" height="214" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587662242217" />
     <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1583169390105">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -146,6 +160,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="391" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587659652277" />
+    <state x="390" y="120" width="586" height="488" key="find.popup" timestamp="1587661925252">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="120" width="586" height="488" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1587661925252" />
     <state x="65" y="0" key="new project wizard" timestamp="1585413207520">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
