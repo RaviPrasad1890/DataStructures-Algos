@@ -1,4 +1,4 @@
-package Algos.ArrayBased;
+package com.recurssion;
 
 public class Fibonacci {
     public static void main(String[] args){

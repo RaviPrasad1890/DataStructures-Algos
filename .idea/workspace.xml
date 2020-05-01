@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="9e44ba60-268f-4d2d-b69e-6aeb83aa3e7c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algos/ArrayBased/Factorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algos/ArrayBased/Fibonacci.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,8 +31,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/recurssion" />
   </component>
-  <component name="RunManager" selected="Application.Fibonacci">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\DataStructure&amp;AlgorithmPractice\src\com\recurssion" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.FindBiggestNumberInArray">
     <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Algos.ArrayBased.Factorial" />
       <module name="DataStructure&amp;AlgorithmPractice" />
@@ -57,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.linkedlist.Doubly.Main" />
+    <configuration name="FindBiggestNumberInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.recurssion.FindBiggestNumberInArray" />
       <module name="DataStructure&amp;AlgorithmPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.linkedlist.Doubly.*" />
+          <option name="PATTERN" value="com.recurssion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindBiggestNumberInArray" />
         <item itemvalue="Application.Fibonacci" />
         <item itemvalue="Application.Factorial" />
         <item itemvalue="Application.MaxSubArraySum" />
         <item itemvalue="Application.RotationOfArray" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -140,22 +148,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585413171752" />
-    <state width="1323" height="214" key="GridCell.Tab.0.bottom" timestamp="1587823611313">
+    <state width="1323" height="214" key="GridCell.Tab.0.bottom" timestamp="1588350054041">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="214" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587823611313" />
-    <state width="1323" height="214" key="GridCell.Tab.0.center" timestamp="1587823611313">
+    <state width="1323" height="214" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588350054041" />
+    <state width="1323" height="214" key="GridCell.Tab.0.center" timestamp="1588350054041">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="214" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587823611313" />
-    <state width="1323" height="214" key="GridCell.Tab.0.left" timestamp="1587823611313">
+    <state width="1323" height="214" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588350054041" />
+    <state width="1323" height="214" key="GridCell.Tab.0.left" timestamp="1588350054041">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="214" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587823611313" />
-    <state width="1323" height="214" key="GridCell.Tab.0.right" timestamp="1587823611313">
+    <state width="1323" height="214" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588350054041" />
+    <state width="1323" height="214" key="GridCell.Tab.0.right" timestamp="1588350054041">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="214" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587823611313" />
+    <state width="1323" height="214" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588350054041" />
     <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1583169390105">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -172,10 +180,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1583169390105" />
-    <state x="391" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1587822975416">
+    <state x="391" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1588349137370">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="391" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587822975416" />
+    <state x="391" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1588349137370" />
     <state x="390" y="120" width="586" height="488" key="find.popup" timestamp="1587661925252">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

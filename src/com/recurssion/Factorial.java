@@ -1,4 +1,4 @@
-package Algos.ArrayBased;
+package com.recurssion;
 
 public class Factorial {
 
